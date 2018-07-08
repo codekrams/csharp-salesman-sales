@@ -1,0 +1,3 @@
+Vertreter eingeben, aendern oder loeschen
+Auftraege eingeben, aendern oder loeschen
+Umsaetze anzeigen
